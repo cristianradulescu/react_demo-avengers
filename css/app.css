@@ -1,0 +1,11 @@
+body {
+    padding-top: 50px;
+}
+
+.table-narrow {
+    max-width: 730px;
+}
+
+#memberDetailsTable {
+    margin-top: 20px;
+}

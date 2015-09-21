@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "nickname":"Captain America",
+      "name":"Steve Rogers",
+      "weapon":"Shield",
+      "race": "Human"
+    },
+    {
+      "nickname":"Thor",
+      "name":"Thor",
+      "weapon":"Hammer",
+      "race":"God"
+    },
+    {
+      "nickname":"Hulk",
+      "name":"Bruce Banner",
+      "weapon":"Superhuman strength",
+      "race":"Mutant"
+    },
+    {
+      "nickname":"Black widow",
+      "name":"Natasha Romanoff",
+      "weapon":"Martial arts",
+      "race":"Human"
+    }
+  ]
+}
